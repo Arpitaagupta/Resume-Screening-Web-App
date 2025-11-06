@@ -36,6 +36,18 @@ The goal of this project is to **train, test, and evaluate** the KNN model using
 - Sensitive to noisy data and irrelevant features.
 - Requires feature scaling for accurate results.
 
+## 📸 Screenshots  
+
+<p align="center">
+  <img src="screenshots/ResumeScreening1.png" alt="Resume Screening Screenshot 1" width="45%"/>
+  <img src="screenshots/ResumeScreening2.png" alt="Resume Screening Screenshot 2" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/ResumeScreening3.png" alt="Resume Screening Screenshot 3" width="45%"/>
+  <img src="screenshots/ResumeScreening4.png" alt="Resume Screening Screenshot 4" width="45%"/>
+</p>
+
 
 ## 🗂 Dataset Details
 
